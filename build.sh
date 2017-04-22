@@ -1,1 +1,1 @@
-docker build --tag openjdk .
+docker build --tag openjdk:8 .
